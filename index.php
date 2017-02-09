@@ -8,7 +8,7 @@
 <body>
 <div class="about">
 	<h1>Kristen Nyce</h1>
-	<img src="/images/me.jpg" height="200px">
+	<img src="/images/me.JPG" height="200px">
 	<h1>About Me</h1>
 	<div class="about_text">
 	    <h3><?=$about?></h3>
