@@ -1,0 +1,22 @@
+
+body {
+    font-family: 'Amatica SC';font-size: 22px;
+}
+
+h3,h1 {
+    text-align: center;
+}
+
+
+.about{
+    text-align: center;	
+}
+
+.about_text h3{
+    padding:0px 100px 0px 100px;
+}
+
+.quote {
+    text-align:center;
+}
+
